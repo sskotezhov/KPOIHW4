@@ -4,7 +4,6 @@ main\java\config\KafkaConfig.class
 main\java\models\PaymentLog.class
 main\java\repositories\AccountRepository.class
 main\java\events\OrderEvent.class
-main\java\consumers\OrderCreatedConsumer.class
 main\java\controllers\PaymentController.class
 main\java\repositories\PaymentLogRepository.class
 main\java\Application.class
